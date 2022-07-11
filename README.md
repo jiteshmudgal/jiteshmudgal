@@ -1,5 +1,4 @@
 # jiteshmudgal.github.io
 Portfolio-website
 layout: page
-title: Portfolio-website
-permalink: https://jiteshmudgal.github.io/Main/
+A portfolio website made using HTML and CSS.
