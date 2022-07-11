@@ -1,2 +1,2 @@
-# jiteshmudgal.github.io
-A portfolio website made using HTML and CSS.
+# Jitesh Mudgal
+A portfolio website that I made as my first project using HTML and CSS.
